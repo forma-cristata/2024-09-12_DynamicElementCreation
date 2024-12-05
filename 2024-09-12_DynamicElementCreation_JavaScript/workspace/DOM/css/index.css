@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cinzel'; /* Name your font family */
+    src: url('workspace/DOM/css/CinzelDecorative-Regular.otf'); /* Locate the .ttf file within your directory*/
+}
+html{
+    font-family: Cinzel, sans-serif;
+    background-color: black;
+    color: silver;
+}
