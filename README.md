@@ -1,4 +1,4 @@
-# Grocery List Web App
+# Grocery List WebApp
 
 A simple web application that helps you create and manage your grocery shopping list with a clean, easy-to-read interface.
 
